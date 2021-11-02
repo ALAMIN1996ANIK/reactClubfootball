@@ -17,7 +17,7 @@ const Home = () => {
     display: 'grid',
     gridTemplateColumns: 'repeat(4,1fr)',
     gridGap: '20px',
-    marginLeft: '80px',
+    marginLeft: '30px',
     marginRight: '20px',
    }
    const divBackground ={
